@@ -1,0 +1,19 @@
+.place {
+  margin-left: 15px;
+}
+
+.placeName {
+  text-decoration-color: "blue";
+}
+
+.visited {
+  text-decoration: line-through;
+}
+
+.btnGroup {
+  float: right;
+}
+
+.deleteBtn {
+  margin: 0 10px 0 10px;
+}

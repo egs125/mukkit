@@ -1,0 +1,10 @@
+.listBox {
+  text-align: left;
+  display: inline-block;
+  background-color: bisque;
+  width: 50%;
+}
+
+.addBox {
+  margin: 20px;
+}
